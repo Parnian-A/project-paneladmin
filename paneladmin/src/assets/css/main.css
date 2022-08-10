@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'IranianSans';
+    src: url('../fonts/IranianSans.ttf');
+}
+
+* {
+    font-family:'IranianSans';
+    
+}
+
+
+.header {
+    background-color: whitesmoke;
+}
+
+.footer {
+    background-color: whitesmoke;
+    text-align: center;
+
+}
+.content {
+    margin: 10px;
+    padding: 15px;
+    font-size: 15px;
+}
